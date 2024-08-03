@@ -1,0 +1,14 @@
+TODO:
+    [X] Change date format to MONTH-YEAR
+        E.g. NOV-2024, DEC-2030
+    [X] Validate cards that are sent
+    [X] Automatically (?) sort card data
+    [X] Obfuscate card details
+
+
+STEPS:
+    1. Take card details through API
+    2. Validate
+    3. Obfuscate
+    4. Store and sort
+        - Find how to get the NOV-2024 format working
